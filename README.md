@@ -1,15 +1,15 @@
 # Chronicle - A JDBC LOGIN PROJECT Along with DASHBOARD.
 This is a NetBeans Project using `mysql-connector-java-8.0.13` .
-It is a simple JDBC Project with login-logout system and Dashboard.
-You can Register with "registerhere.java".
-Login with "MainSc.java".
-Dashboard is displayed by "dashboard.java"
-Add a new post with "postadder.java".
+It is a simple JDBC Project with login-logout system and Dashboard.<br>
+* You can Register with "registerhere.java".
+* Login with "MainSc.java".
+* Dashboard is displayed by "dashboard.java"
+* Add a new post with "postadder.java".
 
-For synchronising user among all frames, id is retrived at the time of login and is circulated through object.
-
-MySql Database looks like this:-
-Database: Users
+***For synchronising user among all frames, id is retrived at the time of login and is circulated through object.***
+<br><br>
+**MySql Database looks like this :-**
+__Database__: Users
 Table1: usersone (Used to save login credentials and other data.)
 Coloumn:
 +----+---------------+----------+----------+------------+
